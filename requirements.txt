@@ -4,4 +4,3 @@ streamlit
 pycaret
 pandas
 plotly
-json
